@@ -733,7 +733,7 @@ def main():
         st.markdown("""
         ### 🌍 Ce que vous allez découvrir
         
-        Cette application démontre comment Lab_Math peut prédire :
+        Cette application démontre comment Lab_Math peut faire des analyses prédictives:
         
         | Phénomène | Horizon | Précision |
         |-----------|---------|-----------|
